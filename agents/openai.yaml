@@ -1,0 +1,4 @@
+interface:
+  display_name: "Minimal Whitespace Web Design & Build"
+  short_description: "Authentic visuals, clear whitespace, restrained motion"
+  default_prompt: "Use $minimal-whitespace-web-design to design and build a website for this project's brand, users, and content."

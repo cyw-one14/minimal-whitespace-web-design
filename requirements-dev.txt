@@ -1,0 +1,2 @@
+# Development checks only; the skill itself has no Python dependency.
+PyYAML==6.0.3
